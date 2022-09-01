@@ -1,0 +1,1 @@
+# This examples for how can we handle ui(user interface) and application(model) interactions.
